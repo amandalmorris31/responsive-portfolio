@@ -1,0 +1,22 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "description": "This is comprised of an About Me page; a Portfolio page; and a Contact page.  This is for Homework 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandalmorris31/responsive-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandalmorris31/responsive-portfolio/issues"
+  },
+  "homepage": "https://github.com/amandalmorris31/responsive-portfolio#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
